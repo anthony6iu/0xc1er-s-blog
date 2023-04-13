@@ -17,6 +17,6 @@ export const MENU_LINKS = [
 export const SOCIAL_LINKS = {
 	github: "https://github.com/anthony6iu",
 	twitter: "https://twitter.com/Anthony_6iu",
-	discord: "https://github.com/chrismwilliams/astro-cactus",
+	//discord: "https://github.com/chrismwilliams/astro-cactus",
 	email: "anthony6iu@gmail.com",
 };
